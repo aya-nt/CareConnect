@@ -1,0 +1,69 @@
+# ---------------------------
+# Global OS Files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Python Backend
+# ---------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+*.db
+*.sqlite3
+*.log
+
+# ---------------------------
+# Node / Next.js Frontend
+# ---------------------------
+# Dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+dist/
+build/
+
+# Public exports
+.next/cache/
+.next/static/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# ---------------------------
+# Frontend Tools
+# ---------------------------
+# Turbo / SWC / Metro
+.swc/
+.expo/
+.expo-shared/
+
+# CSS tooling
+.postcssrc
+*.css.map
+
+# ---------------------------
+# IDE / Editor files
+# ---------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# ---------------------------
+# Misc
+# ---------------------------
+*.lock
+*.bak
