@@ -8,7 +8,7 @@ The system detects falls, loud noises, and abnormal events, then sends alerts to
 - Loud sound / scream detection
 - Real-time sensor monitoring (ESP32)
 - Fast notifications to family members
-- React Native mobile app
+- Next.js mobile app
 - Python backend with SQL database
 
 ## 🏗 Technologies Used
