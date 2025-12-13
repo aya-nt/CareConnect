@@ -67,3 +67,8 @@ pnpm-debug.log*
 # ---------------------------
 *.lock
 *.bak
+
+backend/serviceAccountKey.json
+.env
+.env.*
+
