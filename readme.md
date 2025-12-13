@@ -6,6 +6,9 @@ The system detects falls, loud noises, and abnormal events, then sends alerts to
 ## 🚀 Features
 - Fall detection (AI + camera)
 - Loud sound / scream detection
+- fire sensor
+- water sensor (to detect water overflow)
+- we can add other sensors .
 - Real-time sensor monitoring (ESP32)
 - Fast notifications to family members
 - Next.js mobile app
